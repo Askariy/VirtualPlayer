@@ -162,6 +162,7 @@ let VirtualPlayer1 = new VirtualPlayer("VP1", [
       { songName: "hakuna", duration: "240" },
       { songName: "matata", duration: "210" },
       { songName: "hola", duration: "165" },
+      { songName: "halo", duration: "145" },
     ],
   },
 ]);
